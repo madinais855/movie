@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(250, 214, 220);
+    font-size: 50PX;
+    color: white;
+    padding-left: 400px;
+    
+}
+.shadow-text{
+    text-shadow: 2px 2px 5px rgb(31, 73, 196);
+}
+.startposition{
+    padding-left: 100px;
+}
